@@ -1,0 +1,54 @@
+[
+  {
+    "key": "1",
+    "name": "- - - Phone",
+    "image_link": "images/item1.png",
+    "short_desc": "Lorem ipsum is placeholder text commonly used in the ...",
+    "published": true,
+    "expandable": true,
+    "full_desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book."
+  },
+  {
+    "key": "2",
+    "name": "-Iphone",
+    "image_link": "images/item2.png",
+    "short_desc": "Lorem ipsum is placeholder text commonly used in the ...",
+    "published": true,
+    "expandable": true,
+    "full_desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book."
+  },
+  {
+    "key": "3",
+    "name": "- Samsung",
+    "image_link": "images/item3.png",
+    "short_desc": "Lorem ipsum is placeholder text commonly used in the ...",
+    "published": true,
+    "expandable": true,
+    "full_desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book."
+  },
+  {
+    "key": "4",
+    "name": "- Huawei",
+    "image_link": "images/item4.png",
+    "short_desc": "Lorem ipsum is placeholder text commonly used in the ...",
+    "published": true,
+    "expandable": true,
+    "full_desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book."
+  },
+  {
+    "key": "5",
+    "name": "Galaxy",
+    "image_link": "images/item5.png",
+    "short_desc": "Lorem ipsum is placeholder text commonly used in the ...",
+    "published": true
+  },
+  {
+    "key": "6",
+    "name": "- - - Shoes",
+    "image_link": "images/item6.png",
+    "short_desc": "Lorem ipsum is placeholder text commonly used in the ...",
+    "published": true,
+    "expandable": true,
+    "full_desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book."
+  }
+]
